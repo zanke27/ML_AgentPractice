@@ -1,0 +1,47 @@
+{
+    "Mummy": {
+        "checkpoints": [
+            {
+                "steps": 100006,
+                "file_path": "results\\Mummy01\\Mummy\\Mummy-100006.onnx",
+                "reward": 0.549575310646337,
+                "creation_time": 1684809675.6855206,
+                "auxillary_file_paths": [
+                    "results\\Mummy01\\Mummy\\Mummy-100006.pt"
+                ]
+            },
+            {
+                "steps": 100006,
+                "file_path": "results\\Mummy01\\Mummy\\Mummy-100006.onnx",
+                "reward": null,
+                "creation_time": 1684810004.444063,
+                "auxillary_file_paths": [
+                    "results\\Mummy01\\Mummy\\Mummy-100006.pt"
+                ]
+            },
+            {
+                "steps": 200015,
+                "file_path": "results\\Mummy01\\Mummy\\Mummy-200015.onnx",
+                "reward": 0.910354747160061,
+                "creation_time": 1684810217.4574578,
+                "auxillary_file_paths": [
+                    "results\\Mummy01\\Mummy\\Mummy-200015.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 200015,
+            "file_path": "results\\Mummy01\\Mummy.onnx",
+            "reward": 0.910354747160061,
+            "creation_time": 1684810217.4574578,
+            "auxillary_file_paths": [
+                "results\\Mummy01\\Mummy\\Mummy-200015.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
