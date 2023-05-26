@@ -1,0 +1,29 @@
+{
+    "MummyILAgent": {
+        "checkpoints": [
+            {
+                "steps": 63321,
+                "file_path": "results\\MummyILAgent01\\MummyILAgent\\MummyILAgent-63321.onnx",
+                "reward": -0.32142857196075575,
+                "creation_time": 1685073270.7183776,
+                "auxillary_file_paths": [
+                    "results\\MummyILAgent01\\MummyILAgent\\MummyILAgent-63321.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 63321,
+            "file_path": "results\\MummyILAgent01\\MummyILAgent.onnx",
+            "reward": -0.32142857196075575,
+            "creation_time": 1685073270.7183776,
+            "auxillary_file_paths": [
+                "results\\MummyILAgent01\\MummyILAgent\\MummyILAgent-63321.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
